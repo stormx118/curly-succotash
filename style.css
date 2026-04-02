@@ -121,7 +121,7 @@ main{
   grid-row: span 2;
 }
 .second-article{
-  background-color: var(  --clr-dark-blue);
+  background-color: var(--clr-dark-blue);
   color: var(--clr-white);
 
 }
