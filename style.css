@@ -58,7 +58,7 @@ color: var(--clr-white);
   box-shadow: 5px 0px 42px -6px #AAAAB7;
 }
 h1{
-  font-size:22px;
+  font-size:20px;
   font-weight: 600;
   margin-block-start: 1rem;
   margin-block-end: 1rem;
@@ -140,7 +140,7 @@ color: var(--clr-white);
   box-shadow: 18px 21px 30px 6px #DDDDDD;
 }
 h1{
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 600;
   margin-block-start: 1rem;
   margin-block-end: 1rem;
